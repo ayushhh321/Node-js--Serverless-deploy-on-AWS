@@ -156,7 +156,7 @@ To clean up the resources created by Terraform, run:
 terraform destroy
 ```
 
-This README covers the setup, configuration, and deployment of the Node.js application on AWS ECS using Terraform. If you encounter any issues or have questions, feel free to open an issue or reach out for support.
+## This README covers the setup, configuration, and deployment of the Node.js application on AWS ECS using Terraform. If you encounter any issues or have questions, feel free to open an issue or reach out for support.
 =======
 
 ```sh
@@ -164,4 +164,6 @@ terraform destroy
 ```
 
 This README covers the setup, configuration, and deployment of the Node.js application on AWS ECS using Terraform. If you encounter any issues or have questions, feel free to open an issue or reach out for support.
->>>>>>> d4047c7f6379a429e123942c2d55a9c1af300373
+
+
+---------------------------------------------------------------------------------------MADE BY ayushhh321---------------------------------------------------------------------------------------
