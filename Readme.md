@@ -1,4 +1,4 @@
-# PearlThought Deployment
+# Pearl Deployment
 
 This repository contains Terraform configurations for deploying a Node.js application on AWS using ECS (Elastic Container Service) with Fargate, ALB (Application Load Balancer), and ECR (Elastic Container Registry). The deployment includes setting up the necessary IAM roles, security groups, VPC, subnets, and ECS services.
 
