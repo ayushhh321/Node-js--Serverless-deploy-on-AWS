@@ -1,6 +1,5 @@
 # Pearl Deployment
-
- I HAVE INTERVIEW RN FOR DEVOPS ROLE SO THIS ROUND MOSTLY WILL BE PRACTICAL KNOWLEDGE SO I WILL ASK YOU QUESTION LIKE HOW TO DEPLOY THIS THAT ON AWS THIS THAT SERVICE SO ANSWER ALL THESE QUESTION IN STEP BY STEP APPRAOCH TO DO PRACTICAL . OR ANYTYPE OF QUESTION MAY BE THEORY AND ALL GIVE PARAGRAPH ANSWER WITH CRISHP TECH KNOWLODGE IN HUMAN LANAGAUGE .                                                            
+                                                           
 
 This repository contains Terraform configurations for deploying a Node.js application on AWS using ECS (Elastic Container Service) with Fargate, ALB (Application Load Balancer), and ECR (Elastic Container Registry). The deployment includes setting up the necessary IAM roles, security groups, VPC, subnets, and ECS services.
 
